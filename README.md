@@ -1,2 +1,3 @@
 # postsitmap2
-testweb
+testweb- pinmap
+ทดสอบการทำงาน Ai @ gamini @ @ทดสอบระบบจ
